@@ -15,5 +15,5 @@ Minified CSS for better performance
 
 **🛠 Technologies Used**
 HTML5
-CSS3 (Flexbox & Media Queries)
-JavaScript (Vanilla JS for interactivity)
+CSS3
+JavaScript 
